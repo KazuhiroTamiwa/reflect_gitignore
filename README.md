@@ -1,1 +1,2 @@
 # reflect_gitignore
+gitignoreをあとから作成したときに、当初ignoreされるはずであったファイルを`git rm`するスクリプト
